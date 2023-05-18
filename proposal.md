@@ -1,5 +1,5 @@
 # Final Project Proposal
-### George Mi, 
+### George Mi, May 15
  
 ## **Description:**
 #### A brick breaker style of game that has a platform the player controls that causes a ball to bounce and hit the bricks
@@ -20,7 +20,7 @@
 ## **Similar programs:**
 - Arkanoid
 - Brick Breaker
-- AAtari breakout
+- Atari breakout
 
 ## **Target User:**
 Someone that enjoys old games
